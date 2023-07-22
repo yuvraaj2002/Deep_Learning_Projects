@@ -1,0 +1,7 @@
+tensorflow==2.10
+numpy
+scikit-learn
+streamlit
+black
+
+-e .
