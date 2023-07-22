@@ -3,5 +3,9 @@ numpy
 scikit-learn
 streamlit
 black
+dill
+category_encoders
+keras-tuner
+DateTime
 
 -e .
